@@ -546,16 +546,16 @@ Biases don't only apply to hiring. For instance, the fundamental attribution bia
 - [Ten Principles for Growth as an Engineer](https://medium.com/@daniel.heller/ten-principles-for-growth-69015e08c35b), Dan Heller.
 - [Don't Call Yourself a Programmer](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/), Patrick McKenzie.
 - [On being an Engineering Manager](https://nickmchardy.com/2019/02/on-being-an-engineering-manager.html)
-- [The career advice I wish I had at 25](https://www.linkedin.com/pulse/career-advice-i-wish-had-25-shane-rodgers/?trk=hp-feed-article-title-like)
-  - A career is a marathon, not a sprint
-  - Most success comes from repetition, not new things
-  - If work was really so great all the rich people would have the jobs
-  - Management is about people, not things
-  - Genuinely listen to others
-  - Recognise that staff are people with finite emotional capacity
-  - Don’t just network with people your own age
-  - Never sacrifice personal ethics for a work reason
-  - Recognise that failure is learning
+- ~~[The career advice I wish I had at 25](https://www.linkedin.com/pulse/career-advice-i-wish-had-25-shane-rodgers/?trk=hp-feed-article-title-like)~~
+  - ~~A career is a marathon, not a sprint~~
+  - ~~Most success comes from repetition, not new things~~
+  - ~~If work was really so great all the rich people would have the jobs~~
+  - ~~Management is about people, not things~~
+  - ~~Genuinely listen to others~~
+  - ~~Recognise that staff are people with finite emotional capacity~~
+  - ~~Don’t just network with people your own age~~
+  - ~~Never sacrifice personal ethics for a work reason~~
+  - ~~Recognise that failure is learning~~
 - [Career advice I wish I’d been given when I was young](https://80000hours.org/2019/04/career-advice-i-wish-id-been-given-when-i-was-young/)
   - Don’t focus too much on long-term plans.
   - Find good thinkers and cold-call the ones you most admire.
