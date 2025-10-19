@@ -668,7 +668,7 @@ About senior engineers:
 - [Ask HN: How do you review code?](https://news.ycombinator.com/item?id=11416746): great discussion on HackerNews, full of interesting ideas.
 - [Maslow's pyramid of code reviews](https://www.dein.fr/posts/2015-02-18-maslows-pyramid-of-code-review)
   - Another one on the same topic: [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
-- [Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/): very complete set of rules.
+- ~~[Code review in remote teams](https://web.hypothes.is/blog/code-review-in-remote-teams/): very complete set of rules.~~
 - [No code reviews by default](https://www.raycast.com/blog/no-code-reviews-by-default/)
   - Responsibility over convention
 
