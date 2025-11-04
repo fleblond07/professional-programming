@@ -609,7 +609,7 @@ Biases don't only apply to hiring. For instance, the fundamental attribution bia
 
 About senior engineers:
 
-- [Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)
+- ~~[Falsehoods Junior Developers believe about becoming Senior](https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/)~~
 
 #### Choosing your next/first opportunity
 
