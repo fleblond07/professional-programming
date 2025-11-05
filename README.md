@@ -1350,7 +1350,7 @@ Learn how to learn!
   - Summarize and share with someone else.
   - Connect what you just learned to experiences you previously had.
 - [How To Remember Anything Forever-ish](https://ncase.me/remember/): a comic about learning
-- [Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)
+- ~~[Get better at programming by learning how things work](https://jvns.ca/blog/learn-how-things-work/)~~ 
 - [How to teach yourself hard things](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
 - [Building Your Own Personal Learning Curriculum](https://www.smashingmagazine.com/2021/02/building-personal-learning-curriculum/)
 - [Always do Extra](http://www.bennorthrop.com/Essays/2021/always-do-extra.php)
